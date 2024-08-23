@@ -17,3 +17,6 @@ This CI service patches recovery images of Samsung to enable Fastbootd. Based on
 # Credits
 - [Phhusson](https://github.com/phhusson) Without his script nothing would be possible at the first place
 - [James Nguyen](https://github.com/thongass000) Helping me in simplifying the scripts and tweaking it
+
+# Additional warnings:
+- For anyone wanting to fork Johx22's script, you need to upload your recovery.img as a release file, otherwise the process will fail at step 2.
